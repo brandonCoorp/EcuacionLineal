@@ -1,0 +1,35 @@
+canvas {
+    border: 1px solid rgba(0, 0, 255, 5);
+}
+
+body {
+   background: cornflowerblue;
+}
+
+#content{
+    height: 70vh;
+    display: flex;
+    background: lightcyan;
+    margin-right: 10px;
+    padding-left: 10px;
+}
+.ecuacion{
+    margin-top: 4%;
+    margin-left: 4%;
+}
+
+.ecuacion input{
+    
+    width: 25px;
+}
+
+#grafico {
+    padding-left: 5%;
+    padding-top: 4%;
+    justify-content: center;    
+    align-items: center;
+}
+
+#titulo {
+    text-align: center;
+}
